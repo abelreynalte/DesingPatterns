@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractFactory1.AbstractFactory" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.AbstractProductA" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractProductA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.AbstractProductB" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractProductB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.Client">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.ConcreteFactory1">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ConcreteFactory1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.ConcreteFactory2">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ConcreteFactory2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.ProductA1" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductA1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.ProductA2" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductA2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.ProductB1" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductB1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.ProductB2" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductB2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory1.Program" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
